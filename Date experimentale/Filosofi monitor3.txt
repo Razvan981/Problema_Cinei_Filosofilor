@@ -1,0 +1,131 @@
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 1 : ridica furculita din Stanga.
+ Filosoful 1 : ridica furculita din Dreapta.
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 4 : ridica furculita din Stanga.
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 5 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 4 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 4 : ridica furculita din Stanga.
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 4 : ridica furculita din Dreapta.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 5 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 1 :  ============== Mananca !! ============== 
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 1 : A terminat de mancat !! Acum Pune jos furculita din Stanga si pe cea din Dreapta.
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 1 : ridica furculita din Stanga.
+ Filosoful 5 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 2 : ridica furculita din Stanga.
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 1 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 2 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 5 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 1 : ridica furculita din Stanga.
+ Filosoful 4 :  ============== Mananca !! ============== 
+ Filosoful 4 : A terminat de mancat !! Acum Pune jos furculita din Stanga si pe cea din Dreapta.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 1 : ridica furculita din Dreapta.
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 4 : ridica furculita din Stanga.
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 4 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 3 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 5 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 5 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 3 : ridica furculita din Dreapta.
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 4 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 5 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 4 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 1 :  ============== Mananca !! ============== 
+ Filosoful 2 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 1 : A terminat de mancat !! Acum Pune jos furculita din Stanga si pe cea din Dreapta.
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 5 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 1 : ridica furculita din Stanga.
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 2 : ridica furculita din Stanga.
+ Filosoful 5 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 1 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 4 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 2 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 5 :  ----> Se gandeste !! 
+ Filosoful 5 : ridica furculita din Stanga.
+ Filosoful 5 : ridica furculita din Dreapta.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 1 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 3 :  ============== Mananca !! ============== 
+ Filosoful 4 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 2 : ridica furculita din Stanga.
+ Filosoful 4 :  ----> Se gandeste !! 
+ Filosoful 2 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 3 : A terminat de mancat !! Acum Pune jos furculita din Stanga si pe cea din Dreapta.
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 1 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 2 : ridica furculita din Stanga.
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 3 :  ----> Se gandeste !! 
+ Filosoful 4 : ridica furculita din Stanga.
+ Filosoful 3 : ridica furculita din Stanga.
+ Filosoful 1 : a vrut sa Manance dar nu a reusit din cauza ca furculita din Stanga era luata de alt filosof.
+ Filosoful 2 : lasa furculita din Stanga jos din cauza ca furculita din Dreapta nu e disponibila, deci nu poate Manca.
+ Filosoful 1 :  ----> Se gandeste !! 
+ Filosoful 2 :  ----> Se gandeste !! 
+ Filosoful 2 : ridica furculita din Stanga.
+
+...
